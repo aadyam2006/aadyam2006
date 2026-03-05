@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aadya Mendiratta 👋
 
-<!--
-**aadyam2006/aadyam2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) Student  
+🏫 Dronacharya College of Engineering (2024–2028)
 
-Here are some ideas to get you started:
+## About Me
+I am an AI/ML student passionate about building intelligent applications and exploring machine learning technologies. I enjoy developing AI-powered tools and deploying practical software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+• Python  
+• C  
+• Java  
+• SQL  
+• Data Structures & Advanced Data Structures  
+• Machine Learning  
+• Streamlit  
+• Git & GitHub  
+
+## Projects
+🔹 AI Code Mentor  
+AI-powered tool that analyzes code, explains logic, and generates flowcharts.  
+
+🔹 AI Resume Upgrader  
+AI application that analyzes resumes, suggests ATS improvements, and allows users to download improved resumes.
+
+## Research
+📄 Presented research paper **"Secure and Scalable Multi Cloud"**  
+International Conference on Science, Engineering & Technology  
+Abu Dhabi, UAE – July 2025
+
+## Certification
+🎓 NPTEL – IIT Madras  
+Introduction to Machine Learning
