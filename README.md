@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=aadyam2006&color=blue)
 # Hi, I'm Aadya Mendiratta 👋
 
 🎓 B.Tech CSE (AI/ML) Student  
